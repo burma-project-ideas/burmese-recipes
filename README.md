@@ -9,6 +9,7 @@ Data များကို [BurmeseRecipes.json](https://github.com/sannlynnhtun
 ### Participants
 1. [Shin Thant Aung (Flutter)](https://github.com/n3k00/burmese_recipes)
 2. [Phyo Zay Htike (React)](https://github.com/PhyoZayHtike/Burmese-Food)
+3. [Nay Chi Min Thein (React)](https://github.com/NayChiMinThein/Burmese-Recipes)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Recipes/blob/main/BurmeseRecipesFlow1.png)
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Recipes/blob/main/BurmeseRecipesFlow2.png)
