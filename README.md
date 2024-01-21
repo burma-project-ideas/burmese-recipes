@@ -11,7 +11,7 @@ Data များကို [BurmeseRecipes.json](https://github.com/sannlynnhtun
 2. [Phyo Zay Htike (React)](https://github.com/PhyoZayHtike/Burmese-Food)
 3. [Nay Chi Min Thein (React)](https://github.com/NayChiMinThein/Burmese-Recipes)
 4. [Felix Kai (React)](https://github.com/felixkai34/Burmese-Foods)
-5. [Mya Photo The (React)](https://github.com/myaphoo17/BurmeseRecipes)
+5. [Mya Photo Thwe (React)](https://github.com/myaphoo17/BurmeseRecipes)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Recipes/blob/main/BurmeseRecipesFlow1.png)
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Recipes/blob/main/BurmeseRecipesFlow2.png)
