@@ -14,6 +14,7 @@ Data များကို [BurmeseRecipes.json](https://github.com/sannlynnhtun
 5. [Mya Photo Thwe (React)](https://github.com/myaphoo17/BurmeseRecipes)
 6. [Htet Htet Khine (Angular)](https://github.com/scm-htethtetkhine/BurmeseRecipes)
 7. [Peter (React + Vite)](https://github.com/peterlianpi/Myanmar-Food)
+8. [Paing Soe Khant (PHP)](https://github.com/PaingSKhant/BurmeseRecipes)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Recipes/blob/main/BurmeseRecipesFlow1.png)
 ![Alt text](https://github.com/sannlynnhtun-coding/Burmese-Recipes/blob/main/BurmeseRecipesFlow2.png)
